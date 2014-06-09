@@ -1,4 +1,4 @@
-dev-build-essential Cookbook
+build-essential-dev Cookbook
 ============================
 This cookbook is a build-essential cookbook with developer tools (only git at the moment)
 
@@ -16,15 +16,15 @@ Attributes
 
 Usage
 -----
-#### dev-build-essential::default
+#### build-essential-dev::default
 e.g.
-Just include `dev-build-essential` in your node's `run_list`:
+Just include `build-essential-dev` in your node's `run_list`:
 
 ```json
 {
   "name":"my_node",
   "run_list": [
-    "recipe[dev-build-essential]"
+    "recipe[build-essential-dev]"
   ]
 }
 ```

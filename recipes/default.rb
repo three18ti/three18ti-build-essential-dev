@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: dev-build-essential
+# Cookbook Name:: build-essential-dev
 # Recipe:: default
 #
 # Copyright 2014, YOUR_COMPANY_NAME

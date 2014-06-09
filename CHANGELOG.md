@@ -1,11 +1,11 @@
-dev-build-essential CHANGELOG
+build-essential-dev CHANGELOG
 =============================
 
-This file is used to list changes made in each version of the dev-build-essential cookbook.
+This file is used to list changes made in each version of the build-essential-dev cookbook.
 
 0.1.0
 -----
-- [your_name] - Initial release of dev-build-essential
+- [your_name] - Initial release of build-essential-dev
 
 - - -
 Check the [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax) for help with Markdown.
