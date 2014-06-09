@@ -1,44 +1,22 @@
 dev-build-essential Cookbook
 ============================
-TODO: Enter the cookbook description here.
+This cookbook is a build-essential cookbook with developer tools (only git at the moment)
 
 e.g.
 This cookbook makes your favorite breakfast sandwich.
 
 Requirements
 ------------
-TODO: List your cookbook requirements. Be sure to include any requirements this cookbook has on platforms, libraries, other cookbooks, packages, operating systems, etc.
 
-e.g.
 #### packages
-- `toaster` - dev-build-essential needs toaster to brown your bagel.
+- `build-essential` - build-essential cookbook is required
 
 Attributes
 ----------
-TODO: List you cookbook attributes here.
-
-e.g.
-#### dev-build-essential::default
-<table>
-  <tr>
-    <th>Key</th>
-    <th>Type</th>
-    <th>Description</th>
-    <th>Default</th>
-  </tr>
-  <tr>
-    <td><tt>['dev-build-essential']['bacon']</tt></td>
-    <td>Boolean</td>
-    <td>whether to include bacon</td>
-    <td><tt>true</tt></td>
-  </tr>
-</table>
 
 Usage
 -----
 #### dev-build-essential::default
-TODO: Write usage instructions for each cookbook.
-
 e.g.
 Just include `dev-build-essential` in your node's `run_list`:
 
@@ -65,4 +43,6 @@ e.g.
 
 License and Authors
 -------------------
-Authors: TODO: List authors
+License: MIT
+
+Authors: three18ti
